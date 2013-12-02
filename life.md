@@ -4,7 +4,7 @@
 - 13/11/1985 Born
 - 1990 Kindergarten
 - 1991-1999 Elementary School
-- 8-9/1998 1st trip to Philippines
+- 8/1998-9/1998 1st trip to Philippines
 - 8/1999-5/2003 High School
 - 8/2003-5/2007 College (UC Berkeley)
 - 3/2007 Mexico (Cancun)
@@ -33,4 +33,4 @@
 - 8/2012 Vatican City
 - 8/2012 Netherlands
 - 9/2012-2/2013 China (Dalian, Beijing, Zhuhai)
-- 2/2013-Present San Francisco
+- 2/2013-~ San Francisco
