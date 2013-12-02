@@ -4,12 +4,33 @@
 - 13/11/1985 Born
 - 1990 Kindergarten
 - 1991-1999 Elementary School
-- ~8/1998 1st trip to Philippines
-- 8/1999 High School
-- 8/2003 College (UC Berkeley)
-- ~7/2006 3rd trip to Philippines
-- 8/2007-7/2010 Japan
-- 6/2008 - India
+- 8-9/1998 1st trip to Philippines
+- 8/1999-5/2003 High School
+- 8/2003-5/2007 College (UC Berkeley)
+- 3/2007 Mexico (Cancun)
+- 7/2006-8/2006 3rd trip to Philippines
+- ~8/2006 Hong Kong
+- 8/2007-7/2010 Japan (Tokyo, Osaka)
+- 6/2008 India (Delhi, Leh)
+- 6/2009 Singapore
+- 12/2009-1/2010 Indonesia (Bali, Jakarta)
 - 7/2010-7/2011 New York
-- 7/2011 - 1/2012 San Francisco
-- 1/2012 - 2/2012 Taiwan
+- 10/31/2010 Canada (Montreal)
+- 12/2010-1/2011 Thailand
+- 7/2011-1/2012 San Francisco
+- 8/2011 Ukraine
+- 1/2012-2/2012 Taiwan
+- 2/2012-3/2012 Japan (volunteering in Ishinomaki)
+- 3/2012-4/2012 Thailand
+- 4/2012 China (Beijing)
+- 5/2012 Mongolia
+- 5/2012-6/2012 Russia
+- 6/2012 Latvia
+- 6/2012 Denmark
+- 7/2012 Spain
+- 7/2012-8/2012 Belgium
+- 8/2012 Italy
+- 8/2012 Vatican City
+- 8/2012 Netherlands
+- 9/2012-2/2013 China (Dalian, Beijing, Zhuhai)
+- 2/2013-Present San Francisco
