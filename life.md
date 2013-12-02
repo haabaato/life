@@ -17,12 +17,12 @@
 - 7/2010-7/11/2011 New York
 - 10/31/2010 Canada (Montreal)
 - 12/2010-1/2011 Thailand
-- 7/11//2011-1/2012 San Francisco
+- 7/11//2011-1/11/2012 San Francisco
 - 8/2011 Ukraine
-- 1/2012-2/2012 Taiwan
-- 2/2012-3/2012 Japan (volunteering in Ishinomaki)
-- 3/2012-4/2012 Thailand
-- 4/2012 China (Beijing)
+- 1/11/2012-2/3/2012 Taiwan
+- 2/3/2012-3/26/2012 Japan (volunteering in Ishinomaki)
+- 3/26/2012-4/25/2012 Thailand
+- 4/25/2012-5/9/2012 China (Beijing)
 - 5/2012 Mongolia
 - 5/2012-6/17/2012 Russia
 - 6/17/2012-6/29/2012 Latvia
@@ -34,3 +34,5 @@
 - 8/15/2012-8/30/2012 Netherlands
 - 9/2012-1/28/2013 China (Dalian, Beijing, Zhuhai, Shanghai)
 - 1/29/2013-~ San Francisco
+
+- 8/2007-10/2010 Electronics Device Developer @ Fujitsu Microelectronics Limited
