@@ -1,14 +1,14 @@
 @haabaato's life
 ===============
 
-- 13/11/1985 Born
+- 11/13/1985 Born
 - 1990 Kindergarten
 - 1991-1999 Elementary School
 - 8/1998-9/1998 1st trip to Philippines
-- 8/1999-5/2003 High School
-- 8/2003-5/2007 College (UC Berkeley)
-- 3/2007 Mexico (Cancun)
-- 7/2006-8/2006 3rd trip to Philippines
+#- 8/1999-5/2003 High School
+#- 8/2003-5/2007 College (UC Berkeley)
+#- 3/2007 Mexico (Cancun)
+#- 7/2006-8/2006 3rd trip to Philippines
 #- ~8/2006 Hong Kong
 #- 8/2007-7/2010 Japan (Tokyo, Osaka)
 #- 6/2008 India (Delhi, Leh)
