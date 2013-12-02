@@ -24,13 +24,13 @@
 - 3/2012-4/2012 Thailand
 - 4/2012 China (Beijing)
 - 5/2012 Mongolia
-- 5/2012-6/2012 Russia
-- 6/2012 Latvia
-- 6/2012 Denmark
-- 7/2012 Spain
-- 7/2012-8/2012 Belgium
-- 8/2012 Italy
-- 8/2012 Vatican City
-- 8/2012 Netherlands
+- 5/2012-6/17/2012 Russia
+- 6/17/2012-6/29/2012 Latvia
+- 6/29/2012-7/9/2012 Denmark
+- 7/9/2012-7/26/2012 Spain
+- 7/26/2012-8/3/2012 Belgium
+- 8/3/2012-8/15/2012 Italy
+- 8/13/2012 Vatican City
+- 8/15/2012-8/30/2012 Netherlands
 - 9/2012-1/28/2013 China (Dalian, Beijing, Zhuhai, Shanghai)
 - 1/29/2013-~ San Francisco
