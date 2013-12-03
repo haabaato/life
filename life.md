@@ -1,7 +1,7 @@
 @haabaato's life
 ===============
 
-- 11/13/1985 Born
+- 13/11/1985 Born
 - 1990 Kindergarten
 - 1991-1999 Elementary School
 - 8/1998-9/1998 1st trip to Philippines
@@ -10,13 +10,13 @@
 - 3/2007 Mexico (Cancun)
 - 7/2006-8/2006 3rd trip to Philippines
 - 8/21/2006-8/24/2006 Hong Kong
-- 11/13/1985-8/2007 San Francisco, Bay Area
+- 13/11/1985-8/2007 San Francisco, Bay Area
 - 8/2007-7/2010 Japan (Tokyo, Osaka)
 - 6/2008 India (Delhi, Leh)
 - 6/2009 Singapore
 - 12/2009-1/2010 Indonesia (Bali, Jakarta)
 - 7/2010-7/11/2011 New York
-- 10/31/2010 Canada (Montreal)
+- 10/30/2010 Canada (Montreal)
 - 12/2010-1/2011 Thailand
 - 7/11/2011-1/11/2012 San Francisco
 - 8/2011 Ukraine
@@ -40,7 +40,7 @@
 - 8/2007-10/2009 Electronics Device Developer @ Fujitsu Microelectronics Limited
 - 4/2009 Began learning iPhone development
 - 10/2009 Released 1st iPhone app into App Store
-- 11/2009-2/2010 "iPhone / Cocoa consulting. Contributed to HoodHot's TaxiGuide apps"
+- 11/2009-2/2010 iPhone / Cocoa consulting. Contributed to HoodHot's TaxiGuide apps
 - 4/2010-7/2010 Flash software developer @ Trend Creates
 - 7/2010-12/2010 iOS consultant @ LBi US
 - 1/2011-12/2011 iOS consultant @ JKDesign
