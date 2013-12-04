@@ -3,7 +3,7 @@
 
 - 13/11/1985 Born
 - 1990 Kindergarten
-- 1991-1999 Elementary School
+- 1991-6/1999 Elementary School
 - 8/1999-5/2003 High School
 - 8/2003-5/2007 College (UC Berkeley)
 
